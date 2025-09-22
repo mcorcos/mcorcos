@@ -15,17 +15,17 @@
 | Domains                         | Power electronics, control systems, signal processing, embedded firmware                |
 
 ---
-
 ## Selected Public Repositories
 
-Here are some of my public projects. Click the name to see the code, details, and contributions:
-
 | Project | Description |
-|---|-------------|
-| **[LoRa-Server](https://github.com/mcorcos/LoRa-Server)** | Backend for a LoRa network: data collection, storage in PostgreSQL, real-time dashboards. |
-| **[Signal-Processing-MATLAB](https://github.com/mcorcos/Signal-Processing-MATLAB)** | Implementation of AR, MA, ARMA models; random signal generation; estimation algorithms. |
-| **[Power-Converter-Design](https://github.com/mcorcos/Power-Converter-Design)** | Design, simulation, and prototyping of power converters (Buck, Flyback, etc.) including control loops. |
-| **[Embedded-Firmware-Projects](https://github.com/mcorcos/Embedded-Firmware-Projects)** | Firmware modules for STM32 / ESP32: sensor drivers, RTOS tasks, communication layers. |
+|---------|-------------|
+| **[frontend](https://github.com/mcorcos/frontend)** | Web front-end experiments and coursework (2025). |
+| **[Lab-micros-TP2](https://github.com/mcorcos/Lab-micros-TP2)** | ITBA Microprocessors Lab TP2 – C implementation, low-level drivers and experiments. |
+| **[3d-tp2-lab-de-micros](https://github.com/mcorcos/3d-tp2-lab-de-micros)** | Python visualization for microprocessors lab TP2. |
+| **[MC_FSM](https://github.com/mcorcos/MC_FSM)** | Finite State Machine implementation in C. |
+| **[ASSD-MUESTREO-G3](https://github.com/mcorcos/ASSD-MUESTREO-G3)** | GUI for signal sampling board (Python). |
+| **[FilterTool](https://github.com/mcorcos/FilterTool)** | IEEE Xtreme Ultra 5 – digital filter design tool in Python. |
+| **[Twitter_EDA](https://github.com/mcorcos/Twitter_EDA)** | Exploratory data analysis of Twitter data (C++). |
 
 ---
 
