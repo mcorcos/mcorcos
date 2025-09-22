@@ -1,76 +1,66 @@
-# 👋 Hola, soy Manuel Corcos
+# Manuel Corcos
 
-🎓 Estudiante avanzado de **Ingeniería Electrónica (ITBA)**  
-Apasionado por sistemas embebidos, electrónica de potencia, IoT y todo lo que implique mezclar hardware y software. Me motiva diseñar soluciones reales y eficientes que integren desde el circuito hasta la interfaz con usuario.
-
----
-
-## 🛠️ Tecnologías / Stack
-
-Aquí lo que más uso y lo que domino:
-
-| Categoría        | Tecnologías / Herramientas                       |
-|------------------|---------------------------------------------------|
-| Lenguajes        | C / C++, Python, MATLAB, VHDL / Verilog, Bash     |
-| Embebidos / Hardware | STM32, ESP32, FreeRTOS, KiCad, simulaciones LTspice, diseño PCB |
-| Backend / Bases de datos | PostgreSQL, WebSockets, Node.js (introducción) |
-| Herramientas     | Git, LaTeX / Overleaf, Jupyter, Docker, GitHub Actions |
-| Otros intereses  | Señales aleatorias, electrónica de potencia, control, comunicaciones inalámbricas (LoRa, etc.) |
+⚙️ Electronic Engineer | Embedded Systems | Power Electronics | IoT
 
 ---
 
-## 🌟 Proyectos Destacados
+## Technologies & Expertise
 
-Aquí algunos de mis repos públicos más representativos. Hacé clic para ver más:
-
-| Proyecto | Descripción / Lo que aprendí |
-|----------|-------------------------------|
-| **[Proyecto A](https://github.com/mcorcos/proyecto-a)** | Implementación de un regulador buck-boost con STM32; aprendí diseño de control, estabilidad, simulaciones comparativas vs prototipo físico. |
-| **[Proyecto B](https://github.com/mcorcos/proyecto-b)** | Sistema IoT basado en ESP32 con comunicación LoRa; back-end en PostgreSQL + interfaz web básica para datos en tiempo real. |
-| **[Proyecto C](https://github.com/mcorcos/proyecto-c)** | Simulaciones de procesos estocásticos / señales aleatorias en MATLAB: AR, MA, ARMA, aplicación práctica en datos reales. |
-| **[Proyecto D](https://github.com/mcorcos/proyecto-d)** | Automatización de pruebas de circuitos: instrumentación, recolección de datos y generación de reportes automáticamente. |
-
-> 💡 *Pista:* Podés “pinear” estos repositorios en tu perfil de GitHub para que se vean más rápido los destacados.
+| Category                        | Skills / Tools                                                                           |
+|----------------------------------|------------------------------------------------------------------------------------------|
+| Programming Languages           | C / C++, Python, MATLAB, VHDL / Verilog                                                 |
+| Embedded / Hardware             | STM32, ESP32, FreeRTOS, KiCad, PCB design, circuit simulation (LTSpice, etc.)          |
+| Databases / Backend / Networking| PostgreSQL, WebSockets, REST APIs, IoT protocols (LoRa, MQTT, etc.)                    |
+| Tools & Workflow                | Git, Docker, CI/CD, GitHub Actions, LaTeX, Jupyter                                     |
+| Domains                         | Power electronics, control systems, signal processing, embedded firmware                |
 
 ---
 
-## 📊 Mis estadísticas
+## Selected Public Repositories
+
+Here are some of my public projects. Click the name to see the code, details, and contributions:
+
+| Project | Description |
+|---|-------------|
+| **[LoRa-Server](https://github.com/mcorcos/LoRa-Server)** | Backend for a LoRa network: data collection, storage in PostgreSQL, real-time dashboards. |
+| **[Signal-Processing-MATLAB](https://github.com/mcorcos/Signal-Processing-MATLAB)** | Implementation of AR, MA, ARMA models; random signal generation; estimation algorithms. |
+| **[Power-Converter-Design](https://github.com/mcorcos/Power-Converter-Design)** | Design, simulation, and prototyping of power converters (Buck, Flyback, etc.) including control loops. |
+| **[Embedded-Firmware-Projects](https://github.com/mcorcos/Embedded-Firmware-Projects)** | Firmware modules for STM32 / ESP32: sensor drivers, RTOS tasks, communication layers. |
+
+---
+
+## Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcorcos&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcorcos&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcorcos&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Badges / Reconocimientos
+## Badges
 
-Aquí unos badges útiles para mostrar tus habilidades / status rápidamente:
-
-[![C/C++](https://img.shields.io/badge/language-C++-/C-blue)](https://github.com/search?q=user:mcorcos+C%2B%2B)  
+[![C/C++](https://img.shields.io/badge/language-C%2B%2B/C%2B-blue)](https://github.com/search?q=user:mcorcos+C%2B%2B)  
 [![Python](https://img.shields.io/badge/language-Python-green)](https://github.com/search?q=user:mcorcos+Python)  
 [![MATLAB](https://img.shields.io/badge/software-MATLAB-orange)](#)  
-[![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-purple)](#)  
-[![STM32](https://img.shields.io/badge/Hardware-STM32-teal)](#)  
+[![STM32](https://img.shields.io/badge/microcontroller-STM32-teal)](#)  
+[![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-purple)](#)
 
 ---
 
-## 📚 Educación y Experiencia
+## Education & Professional Summary
 
-- Estudiante de Ingeniería Electrónica, **ITBA**  
-- Trabajos prácticos relevantes:
-  - Diseño de fuentes conmutadas (Buck, Flyback, Half-Bridge)  
-  - Proyectos IoT con ESP32 / LoRa  
-  - Simulaciones de circuitos, pruebas físicas y benchmarking  
-- Siempre participando en tareas/­repos que involucren sistema completo: hardware + firmware + comunicación + software de monitoreo
+- Electronic Engineering student at ITBA.  
+- Experience in designing power electronics, control systems, and embedded firmware.  
+- Projects combining hardware design, firmware implementation, and backend data logging/monitoring.  
+- Strong focus on the intersection of embedded systems and power electronics.
 
 ---
 
-## 📫 Cómo contactarme
+## Contact
 
-- 💼 LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-linkedin/)  
-- 📧 Email: manuel.corcos@ejemplo.com  
-- 🌐 Portafolio / Blog: [tu-sitio-web.com](https://tu-sitio-web.com) *(si lo tenés)*  
+- 📧 **Email (academic):** mcorcos@itba.edu.ar  
+- 📧 **Email (personal):** manucorcos@gmail.com  
+- 💼 **LinkedIn:** [Manuel Corcos](https://www.linkedin.com/in/manuelcorcos/)  
 
 ---
 
-✨ Estoy abierto a colaborar en proyectos que unan hardware y software, en especial en embebidos, electrónica de potencia, IoT y control. Siempre aprendiendo algo nuevo.
-
+I am open to collaborations on embedded systems, power electronics, firmware development, and full cycle hardware-software integration.  
